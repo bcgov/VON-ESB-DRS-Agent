@@ -51,8 +51,6 @@ services:
       WALLET_SEED_BCESB: ${WALLET_SEED_BCESB:-}
       ISSUER_WALLET_DID: ${ISSUER_WALLET_DID}
       HTTP_FORCE_CLOSE_CONNECTIONS: "true"
-    external_links:
-       - tob_tob-api_1:tob-api
     networks:
       - orgbook
       - vonx

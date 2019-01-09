@@ -7,7 +7,7 @@
 # IMAGE_NAMESPACE=l4izby-tools
 TAG_NAME=test
 APPLICATION_DOMAIN=esbdrs-test.pathfinder.gov.bc.ca
-TOB_API_URL=https://angular-on-nginx-devex-von-bc-tob-test.pathfinder.gov.bc.ca/api
+TOB_API_URL=https://test.orgbook.gov.bc.ca/api
 # WEB_HOST_NAME=0.0.0.0
 # WEB_HOST_PORT=8080
 # WEB_HOST_TLS=off

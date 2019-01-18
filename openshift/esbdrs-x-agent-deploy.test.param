@@ -6,7 +6,7 @@
 # NAME=esbdrs-x-agent
 # IMAGE_NAMESPACE=l4izby-tools
 TAG_NAME=test
-APPLICATION_URL=https://esbdrs-x-proxy-devex-von-bc-registries-agent-test.pathfinder.gov.bc.ca
+APPLICATION_URL=https://esbdrs-test.pathfinder.gov.bc.ca
 # CONFIG_ROOT=../config
 # HOST_PORT=8080
 # ENVIRONMENT=default

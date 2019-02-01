@@ -328,7 +328,7 @@
       "displayName": "Application Url",
       "description": "The application URL.",
       "required": true,
-      "value": "https://esbdrs-x-proxy-devex-von-bc-registries-agent-dev.pathfinder.gov.bc.ca/"
+      "value": "https://esbdrs-dev.pathfinder.gov.bc.ca/"
     },
     {
       "name": "CONFIG_ROOT",
@@ -370,7 +370,7 @@
       "displayName": "Indy Ledger URL",
       "description": "URL for a running instance of the von-network.  Used when connecting to the BCovrin Ledger.",
       "required": false,
-      "value": "http://159.89.115.24"
+      "value": "http://dev.bcovrin.vonx.io"
     },
     {
       "name": "LEDGER_PROTOCOL_VERSION",
